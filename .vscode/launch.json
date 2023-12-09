@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Patterns9",
+            "request": "launch",
+            "mainClass": "Patterns9",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns8",
+            "request": "launch",
+            "mainClass": "Patterns8",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
             "name": "Patterns7",
             "request": "launch",
             "mainClass": "Patterns7",
