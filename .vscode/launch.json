@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Patterns7",
+            "request": "launch",
+            "mainClass": "Patterns7",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns6",
+            "request": "launch",
+            "mainClass": "Patterns6",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns5",
+            "request": "launch",
+            "mainClass": "Patterns5",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns4",
+            "request": "launch",
+            "mainClass": "Patterns4",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns3",
+            "request": "launch",
+            "mainClass": "Patterns3",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns2",
+            "request": "launch",
+            "mainClass": "Patterns2",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns1",
+            "request": "launch",
+            "mainClass": "Patterns1",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
