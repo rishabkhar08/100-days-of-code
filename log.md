@@ -7,6 +7,6 @@
 
 **Thoughts:** Good to brush up these questions before jumping to harder problems later.
 
-**Link to work:** [Code Files]([http://www.example.com](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files))
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
 
