@@ -9,4 +9,12 @@
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
+### Day 2: December 10, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Revised some basic and also tried some medium level patterns questions
+
+**Thoughts:** Last set of questions were pretty good, Especially Last question was pretty hard, I had to watch steps in order to understand what's going on.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
