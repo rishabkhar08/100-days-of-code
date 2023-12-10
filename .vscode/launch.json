@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Patterns22",
+            "request": "launch",
+            "mainClass": "Patterns22",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns21",
+            "request": "launch",
+            "mainClass": "Patterns21",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns20",
+            "request": "launch",
+            "mainClass": "Patterns20",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns19",
+            "request": "launch",
+            "mainClass": "Patterns19",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns18",
+            "request": "launch",
+            "mainClass": "Patterns18",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns17",
+            "request": "launch",
+            "mainClass": "Patterns17",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns16",
+            "request": "launch",
+            "mainClass": "Patterns16",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns15",
+            "request": "launch",
+            "mainClass": "Patterns15",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns14",
+            "request": "launch",
+            "mainClass": "Patterns14",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns13",
+            "request": "launch",
+            "mainClass": "Patterns13",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns12",
+            "request": "launch",
+            "mainClass": "Patterns12",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns99",
+            "request": "launch",
+            "mainClass": "Patterns99",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
+            "name": "Patterns10",
+            "request": "launch",
+            "mainClass": "Patterns10",
+            "projectName": "100-days-of-code_8a9ba935"
+        },
+        {
+            "type": "java",
             "name": "Patterns9",
             "request": "launch",
             "mainClass": "Patterns9",
