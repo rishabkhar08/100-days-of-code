@@ -18,3 +18,12 @@
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
+### Day 3: December 11, 2023
+##### (delete me or comment me out)
+
+**Today's Progress**: Revised Math based coding questions 1. Count Digits 2. Reverse Number 3. Palindrome check
+
+**Thoughts:**: Learned about fetching & removing of the last digit.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
