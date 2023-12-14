@@ -32,3 +32,21 @@ Brushed up space and time complexity topic.
 **Thoughts:** Learned about time and space complexity and applied best optimal approach on Print All divisors program.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 5: December 13, 2023
+
+**Today's Progress**: Revised Math based coding questions: 5. Prime Number 5. GCD
+Started Java collections. 
+
+**Thoughts:** Learned about the Java collections ArrayList. 
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 6: December 14, 2023
+
+**Today's Progress**: Java collections : List and Queue , 5 basic Recursion problems solved
+
+**Thoughts:** Learned more about collections interfaces List and Queue , I knew few of them and got insight on other important ones and their use case.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
