@@ -42,3 +42,11 @@ Started Java collections.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
+### Day 6: December 14, 2023
+
+**Today's Progress**: Java collections : List and Queue , 5 basic Recursion problems solved
+
+**Thoughts:** Learned more about collections interfaces List and Queue , I knew few of them and got insight on other important ones and their use case.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
