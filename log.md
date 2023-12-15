@@ -50,3 +50,11 @@ Started Java collections.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
+### Day 7: December 15, 2023
+
+**Today's Progress**: Recursive questions : 1. Palindrome string check 2. Reverse an array. 
+
+**Thoughts:** Just was able to solve 2 recursive questions, It was quite hard. I had go through the solutions in order to resolve them. I guess I'll get better by time.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
