@@ -7,7 +7,7 @@ public class Recursion7 {
             System.out.print("Enter String : ");
             String text = sc.nextLine();
 
-            System.out.println("Palindrome : "+ PalindromeCheck(0,text));
+            System.out.println("Palindrome : "+ PalindromeCheck(0,text)); 
         }
     }
 

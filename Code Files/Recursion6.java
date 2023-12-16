@@ -14,7 +14,7 @@ public class Recursion6 {
                 array[i] = sc.nextInt();
             }
 
-            int revArray[]= ReverseAnArray(array,0,N-1);
+            int revArray[]= ReverseAnArray(array,0,N-1); 
             for (int i : revArray) {
                 System.out.print(i + " ");
             } 
