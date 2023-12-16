@@ -58,3 +58,11 @@ Started Java collections.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
+### Day 8: December 16, 2023
+
+**Today's Progress**: Fibonacci Number (Recursion). Hashing 2 problems.
+
+**Thoughts:** Learned about hashing ,why its used. Used array to solve the problems.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
