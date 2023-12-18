@@ -73,3 +73,11 @@ Started Java collections.
 **Thoughts:** Learned about HashMap.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 10: December 18, 2023
+
+**Today's Progress**: Sorting Problems : 1. Selection Sort  2. Bubble Sort
+
+**Thoughts:** Learned about Sorting techniques.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
