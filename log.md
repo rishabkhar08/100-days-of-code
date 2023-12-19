@@ -81,3 +81,11 @@ Started Java collections.
 **Thoughts:** Learned about Sorting techniques.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 11: December 19, 2023
+
+**Today's Progress**: Sorting Problems : 3. Insertion Sort
+
+**Thoughts:** Learned about Sorting techniques.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
