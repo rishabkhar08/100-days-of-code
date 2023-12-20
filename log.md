@@ -89,3 +89,11 @@ Started Java collections.
 **Thoughts:** Learned about Sorting techniques.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 12: December 20, 2023
+
+**Today's Progress**: Sorting Problems : 4. Merge Sort
+
+**Thoughts:** Learned about Sorting techniques. Divide and Conquer algorithm.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
