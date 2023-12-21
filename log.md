@@ -97,3 +97,11 @@ Started Java collections.
 **Thoughts:** Learned about Sorting techniques. Divide and Conquer algorithm.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 13: December 21, 2023
+
+**Today's Progress**: Sorting Problems : 4. Recursive Insertion Sort  5. Recursive Bubble Sort  6. Quick Sort
+
+**Thoughts:** Learned about Quick Sort and Recursive techniques on Insertion and Bubble sort. Will go through sorting algorithms again. 
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
