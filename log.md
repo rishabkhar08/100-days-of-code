@@ -100,7 +100,7 @@ Started Java collections.
 
 ### Day 13: December 21, 2023
 
-**Today's Progress**: Sorting Problems : 4. Recursive Insertion Sort  5. Recursive Bubble Sort  6. Quick Sort
+**Today's Progress**: Sorting Problems : 5. Recursive Insertion Sort  6. Recursive Bubble Sort  7. Quick Sort
 
 **Thoughts:** Learned about Quick Sort and Recursive techniques on Insertion and Bubble sort. Will go through sorting algorithms again. 
 
