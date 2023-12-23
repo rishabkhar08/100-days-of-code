@@ -113,3 +113,11 @@ Started Java collections.
 **Thoughts:** Did'nt learned much today. Solved 2 array questions.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 15: December 23, 2023
+
+**Today's Progress**: Array Problems: 1. Is Array Sorted and Rotated  2. Remove Duplicate in Sorted Array.
+
+**Thoughts:** Solved 2 array problems. Need more practice on arrays.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
