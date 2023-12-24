@@ -121,3 +121,11 @@ Started Java collections.
 **Thoughts:** Solved 2 array problems. Need more practice on arrays.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 16: December 24, 2023
+
+**Today's Progress**: Array Problems: 1. Left and Right Rotate an array ( 2 approaches)  2. Linear Search  3. Move Zero to End of Array 4. Union of Two Sorted Array.
+
+**Thoughts:** Solved 5 array problems. Learned diff techniques to handle the array.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
