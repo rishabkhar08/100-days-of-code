@@ -129,3 +129,11 @@ Started Java collections.
 **Thoughts:** Solved 5 array problems. Learned diff techniques to handle the array.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 17: December 25, 2023 
+
+**Today's Progress**: Array Problems: 1. Count consecutive ones in array  2. Intersection of two sorted arrays  3. Missing number in an array   4. Once appearing number in an array. 5. Added auth in web api project.
+
+**Thoughts:** Solved 4 array problems. Learned about XOR. Started web api project after a week , working on auth. 
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
