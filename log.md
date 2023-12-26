@@ -137,3 +137,11 @@ Started Java collections.
 **Thoughts:** Solved 4 array problems. Learned about XOR. Started web api project after a week , working on auth. 
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 18: December 26, 2023
+
+**Today's Progress**: Array Problems: 1. Array Concat  2. Added Jwt auth to the web api project.
+
+**Thoughts:** Solved 1 array problem. Completed auth in project
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
