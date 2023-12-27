@@ -145,3 +145,11 @@ Started Java collections.
 **Thoughts:** Solved 1 array problem. Completed auth in project
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 19: December 27, 2023
+
+**Today's Progress**: Array Problems: 1. Longest Sub Array
+
+**Thoughts:** Solved 1 easy array problem and 2 easy Leetcode problems.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
