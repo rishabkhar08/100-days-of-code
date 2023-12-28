@@ -153,3 +153,11 @@ Started Java collections.
 **Thoughts:** Solved 1 easy array problem and 2 easy Leetcode problems.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 20: December 28, 2023
+
+**Today's Progress**: Array Problems: 1. Shuffle the Array 
+
+**Thoughts:** Solved 1 Leetcode problem. Revisited and solved the previous dsa problems.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
