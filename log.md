@@ -161,3 +161,11 @@ Started Java collections.
 **Thoughts:** Solved 1 Leetcode problem. Revisited and solved the previous dsa problems.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 21: December 29, 2023
+
+**Today's Progress**: Array Problems: 1. Find Words containing char  2. Max Value Finder
+
+**Thoughts:** Solved 2 Leetcode problem. Added Login and User Dashboard in project.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
