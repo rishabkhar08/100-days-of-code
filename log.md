@@ -169,3 +169,11 @@ Started Java collections.
 **Thoughts:** Solved 2 Leetcode problem. Added Login and User Dashboard in project.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 22: December 30, 2023
+
+**Today's Progress**: Array Problems: 1. Running Sum of Array   2. Smaller Number Than Current Number
+
+**Thoughts:** Solved 2 Leetcode problem. Added Register , Nav bar and Home page.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
