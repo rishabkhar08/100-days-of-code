@@ -177,3 +177,11 @@ Started Java collections.
 **Thoughts:** Solved 2 Leetcode problem. Added Register , Nav bar and Home page.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 23: December 31, 2023
+
+**Today's Progress**: Array Problems: 1.Create Target Array
+
+**Thoughts:** Solved 1 Leetcode problem.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
