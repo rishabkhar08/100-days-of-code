@@ -185,3 +185,11 @@ Started Java collections.
 **Thoughts:** Solved 1 Leetcode problem.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 24: January 1, 2023
+
+**Today's Progress**: Array Problems: 1.Count items. Added Members page ,routing and basic validations using toastr
+
+**Thoughts:** Solved 1 Leetcode problem. Learned about routing.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
