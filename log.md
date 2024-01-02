@@ -193,3 +193,11 @@ Started Java collections.
 **Thoughts:** Solved 1 Leetcode problem. Learned about routing.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 24: January 2, 2023
+
+**Today's Progress**: Array Problems: 1.Find the Highest Altitude , added route guard.
+
+**Thoughts:** Solved 1 Leetcode problem. Learned more about angular routing.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
