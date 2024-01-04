@@ -209,3 +209,12 @@ Started Java collections.
 **Thoughts:** Solved 2 Leetcode problem. Learned about error handling.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 27: January 4, 2023
+
+**Today's Progress**: Array Problems: 1. Matrix Transpose
+
+**Thoughts:** Solved 1 Leetcode problem. Learned more about error handling.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
