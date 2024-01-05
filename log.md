@@ -218,3 +218,11 @@ Started Java collections.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
+### Day 28: January 5, 2023
+
+**Today's Progress**: Array Problems: 1. Two Sum ( Using Brute & HashMap).
+
+**Thoughts:** Solved 1 Leetcode problem. Revisited and learned backend topics in depth. 
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
