@@ -226,3 +226,11 @@ Started Java collections.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
+### Day 29: January 6, 2023
+
+**Today's Progress**: Array Problems: 1. Sum Zero  2. Plus One.
+
+**Thoughts:** Solved 2 Leetcode problem. 
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
