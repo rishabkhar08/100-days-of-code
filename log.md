@@ -234,3 +234,11 @@ Started Java collections.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
+### Day 30: January 7, 2023
+
+**Today's Progress**: Array Problems: 1. Maximum Sum of SubArray Size K  2. First Negative Integer in Every Window of Size k.  Added Error interceptor, new data migrations in project.
+
+**Thoughts:** Solved 2 sliding window problems. Learned about sliding window technique. Error handling in client app. Use of error interceptor.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
