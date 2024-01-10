@@ -249,3 +249,11 @@ Started Java collections.
 **Thoughts:** Solved 1 sliding window problem. Learned about sliding window technique when window length is unknown. Started learning Mongo Db
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 32: January 9, 2023
+
+**Today's Progress**: Array Problems: 1. Longest Sub Array with the Given Sum  ( Brute & Optimal - Using HashMap ) Positives and Negatives.
+
+**Thoughts:** Solved 1 array problem with HashMap.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
