@@ -22,8 +22,6 @@ public class FirstNegativeInEveryWindowOfSizeK {
 
         int l = 0;
         int r = k - 1;
-        int count = 0;
-
         while (r < arr.length) {
             List<Integer> tempArr = new ArrayList<>();
             for (int i = l; i <= r; i++) {
@@ -44,7 +42,6 @@ public class FirstNegativeInEveryWindowOfSizeK {
                 finalList.add(0);
             }
 
-            count++;
             l++;
             r++;
         }
