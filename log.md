@@ -257,3 +257,11 @@ Started Java collections.
 **Thoughts:** Solved 1 array problem with HashMap.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 33: January 10, 2023
+
+**Today's Progress**: Array Problems: 1. Sort 0, 1, 2 in an array  ( Brute & Optimal - Using DNF algorithm ) .
+
+**Thoughts:** Learned about DNF. Revised up OOP fundamentals.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
