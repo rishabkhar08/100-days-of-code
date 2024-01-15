@@ -265,3 +265,12 @@ Started Java collections.
 **Thoughts:** Learned about DNF. Revised up OOP fundamentals.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 34: January 11, 2023
+
+**Today's Progress**: Array Problems: 1. Majority Element  ( Brute, Better & Optimal - Using Moore's Voting Algorithm ) .
+
+**Thoughts:** Solved array problem using Brute Force , HashMap and Moore's Voting Algorithm.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
