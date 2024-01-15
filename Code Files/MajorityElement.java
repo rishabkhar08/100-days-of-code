@@ -33,6 +33,7 @@ public class MajorityElement {
     static int FindMajorityElementHashMap(int[] arr) {
         int n = arr.length;
         int res = 0;
+        
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();
         for (int i = 0; i < n; i++) 
         {
