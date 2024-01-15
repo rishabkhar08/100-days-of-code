@@ -274,3 +274,11 @@ Started Java collections.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
 
+### Day 35: January 12, 2023
+
+**Today's Progress**: Array Problems: 1. Maximum Sub Array ( Brute, Better & Optimal - Using Kadane's Algorithm ) . Also the sub array itself.
+
+**Thoughts:** Learned about Kadane's Algorithm. Learned about middleware concepts.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
