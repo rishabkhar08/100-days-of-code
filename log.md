@@ -297,3 +297,11 @@ Started Java collections.
 **Thoughts:** Solved 1 array problem.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 38: January 15, 2023
+
+**Today's Progress**: Array Problems: 1. Leaders in an Array problem ( Brute & Optimal )
+
+**Thoughts:** Solved 1 array problem.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
