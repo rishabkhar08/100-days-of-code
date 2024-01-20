@@ -329,3 +329,11 @@ Started Java collections.
 **Thoughts:** Solved 1 array problem.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 42: January 19, 2023
+
+**Today's Progress**: Array Problems: 1. Spiral Traversal of Matrix
+
+**Thoughts:** Solved 1 array problem.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
