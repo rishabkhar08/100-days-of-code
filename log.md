@@ -305,3 +305,11 @@ Started Java collections.
 **Thoughts:** Solved 1 array problem.
 
 **Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
+
+### Day 39: January 16, 2023
+
+**Today's Progress**: Array Problems: 1. Longest Consecutive Sequence in an Array ( Brute & Optimal, Optimal using HashSet)
+
+**Thoughts:** Solved 1 array problem.
+
+**Link to work:** [Code Files](https://github.com/rishabkhar08/100-days-of-code/tree/master/Code%20Files)
